@@ -3,4 +3,4 @@
     <img src="https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=Goland&logoColor=00BFFF"/>
 </h2>
 
-![mr](https://github.com/user-attachments/assets/b0cbcd03-3d0e-493f-8c2a-d91f86c5ca0a)
+![toletole-cat](https://github.com/user-attachments/assets/48ed6911-e4fd-4505-9038-128339de1e0f)
